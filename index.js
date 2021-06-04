@@ -21,6 +21,13 @@ app.use(express.json());
 
 app.listen(port, () => console.log(`Server is running on port ${port}`));
 
+app.use(express.static(path.join(__dirname, 'client/build')));
+
+app.get('/*',(req, res) => {
+res.sendFile(path.join(__dirname, '/client/build/index.html;
+'index.html'));
+});
+
 app.get('/suggestions', async (req, res) => {
   const { search } = req.query;
   const options = {
