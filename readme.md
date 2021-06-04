@@ -1,4 +1,4 @@
-<h1 align="center">YouTube downloader built with React & Node.js</h1>
+<h1 align="center">ሁሉ YouTube downloader built with React & Node.js</h1>
 
 <p align="center">
 Just paste a link or search to download your video. The available formats are mp4, mp3, mov and flv.
@@ -12,7 +12,7 @@ Just paste a link or search to download your video. The available formats are mp
 - Responsive 😎
 - Also usable on iOS & Android
 
-## Feature on [youtubdle.com](https://youtubdle.com)
+## Feature on [hulu-et.herokuapp.com](https://hulu-et.herokuapp.com)
 Direct download while not leaving YouTube: paste **dl** between youtub**dl**e.com and direct download the video!
 ### Example
 From: ```https://www.youtube.com/watch?v=dvgZkm1xWPE``` to: ```https://www.youtubdle.com/watch?v=dvgZkm1xWPE```
@@ -26,10 +26,7 @@ From: ```https://www.youtube.com/watch?v=dvgZkm1xWPE``` to: ```https://www.youtu
 ## V1
 ![](https://raw.githubusercontent.com/bennymeier/new-youtube-downloader/master/screenshot.PNG)
 ![](https://raw.githubusercontent.com/bennymeier/new-youtube-downloader/master/screenshot_1.PNG)
-
-## V2 Coming soon
-![](https://raw.githubusercontent.com/bennymeier/youtube-downloader/v2/screenshot_v2.PNG)
-
+## XMON TEAMS 2021
 ## Available Scripts
 
 In the project directory, you can run:
