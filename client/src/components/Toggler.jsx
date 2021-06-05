@@ -1,8 +1,14 @@
 import React from 'react';
+import Style from "./index.css";
+import logo from './logo.svg';
 
 const Toggler = ({ onClick }) => {
   return (
     <>
+    <div className="logo">
+    <img src={logo} className="App-logo" alt="logo" />
+    
+    
       <div
         className="btn-toggler"
         onClick={onClick}
