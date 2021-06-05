@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 80.0 80.0"
+	enable-background="new 0 0 80.0 80.0"
+	xml:space="preserve">
+<defs>
+	<linearGradient id="stkGrad0" x1="0.000%" y1="50.000%" x2="100.000%" y2="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(241,72,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(255,131,47);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(255,137,42);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad1" x1="23.358%" y1="50.000%" x2="101.667%" y2="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(236,75,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(238,49,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(247,171,0);stop-opacity:1.000" />
+	</linearGradient>
+
+	<style type="text/css">
+		@font-face {
+			font-family: 'emilysCandy'; 
+			src: url('./emilysCandy.ttf');
+		}
+	</style>
+</defs>
+	<path
+		transform = "rotate(-0.00 40.57 40.53)"
+		fill="#FF5A24"
+		stroke="url(#stkGrad0)"
+		fill-opacity="0.000"
+		stroke-opacity="1.0"
+		fill-rule="nonzero"
+		stroke-width="3.44"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M40.57,4.55C60.40,4.55,76.47,20.66,76.47,40.53C76.47,60.40,60.40,76.51,40.57,76.51C20.74,76.51,4.67,60.40,4.67,40.53C4.67,20.66,20.74,4.55,40.57,4.55z"/> 
+
+	<text 
+		font-size="44.145157"
+		font-family="emilysCandy"
+		fill="url(#fillGrad1)"
+		stroke-width="0"
+		fill-opacity="1.0"
+		text-anchor="start"
+  		transform="rotate(-0.0 42.23923 43.382397) scale(0.9243096 1.0)" >
+
+		<tspan x="14.195642" y="54.763897">ሁሉ</tspan>
+	</text>
+</svg>
