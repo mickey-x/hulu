@@ -1,6 +1,6 @@
 import React from 'react';
 import Style from "./index.css";
-import logo from './logo.svg';
+import logo from './hulu.svg';
 
 const Toggler = ({ onClick }) => {
   return (
