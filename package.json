@@ -7,7 +7,7 @@
     "dev": "nodemon index.js"
   },
   "author": "XMON TEAMS",
-  "homepage": "https://hulu-herukoapp.com",
+  "homepage": "https://hulu-eth.vercel.app",
   "license": "ISC",
   "dependencies": {
     "content-disposition": "^0.5.3",
