@@ -42,7 +42,7 @@ app.get('/metainfo', async (req, res) => {
   if (!ytdl.validateID(url) && !ytdl.validateURL(url)) {
     return res
       .status(400)
-      .json({ success: false, error: 'No valid YouTube Id!' });
+      .json({ success: false, error: 'Ivalid YouTube Id!' });
   }
   try {
     const result = await ytdl.getBasicInfo(url, reqOptions);
