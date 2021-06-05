@@ -1,12 +1,12 @@
 import React from 'react';
 import Style from "./index.css";
-import hulu from './hulu.svg';
+import logo from './hulu.svg';
 
 const Toggler = ({ onClick }) => {
   return (
     <>
     <div className="logo">
-    <img src={hulu} className="App-logo" alt="logo" />
+    <img src={logo} className="App-logo" alt="logo" />
     
     
       <div
